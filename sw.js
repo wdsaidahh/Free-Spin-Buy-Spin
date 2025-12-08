@@ -1,11 +1,10 @@
 const CACHE_NAME = "freespin-cache-v1";
 const urlsToCache = [
   "./",
-  "./index.html",
+  "./BUY&FREESPINCALCUL0.2.html",
   "./manifest.json",
-  "./icon-192.png",
-  "./icon-512.png"
-];
+  "./icon.png"
+  ];
 
 // Install Service Worker
 self.addEventListener("install", event => {

@@ -1,20 +1,15 @@
 {
   "name": "Free Spin Futuristik Neon",
   "short_name": "FreeSpin",
-  "start_url": "./index.html",
+  "start_url": "./BUY&FREESPINCALCUL0.2.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#00ffff",
   "description": "Free Spin & Buy Spin Futuristik Neon Calculator",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "icon.png",
       "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
       "type": "image/png"
     }
   ]
