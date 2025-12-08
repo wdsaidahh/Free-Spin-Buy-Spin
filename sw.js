@@ -1,7 +1,7 @@
 const CACHE_NAME = "freespin-cache-v1";
 const urlsToCache = [
   "./",
-  "./BUY&FREESPINCALCUL0.2.html",
+  "./index.html",
   "./manifest.json",
   "./icon.png"
   ];
@@ -50,3 +50,4 @@ self.addEventListener("activate", event => {
     )
   );
 });
+
