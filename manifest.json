@@ -1,7 +1,7 @@
 {
   "name": "Free Spin Futuristik Neon",
   "short_name": "FreeSpin",
-  "start_url": "./BUY&FREESPINCALCUL0.2.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#00ffff",
@@ -14,3 +14,4 @@
     }
   ]
 }
+
